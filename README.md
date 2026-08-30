@@ -3,7 +3,7 @@
 I'm a University Student
 
 # 💫 About Me:
-🚀 About Me<br><br>-💻 University Student.<br>-🎯 Working with Python, HTML, CSS & JavaScript.<br>-🎨 Love building simple games and web sites.<br>-📱 Java, C Beginner<br>-🚀 Exploring modern developing & web technologies.
+🚀 About Me<br><br>-💻 University Student.<br>-🎯 Working with Python, HTML, CSS & JavaScript.<br>-🎨 Love building simple games and web sites.<br>-📱  Java, C Beginner<br>-🚀 Exploring modern developing & web technologies.
 
 
 ## 🌐 Socials:
